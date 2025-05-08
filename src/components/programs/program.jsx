@@ -1,5 +1,5 @@
 import React from 'react'
-import './Program.css'
+import './program.css'
 import program_1 from '../../assets/edusity_assets/program-1.png'
 import program_2 from '../../assets/edusity_assets/program-2.png'
 import program_3 from '../../assets/edusity_assets/program-3.png'
